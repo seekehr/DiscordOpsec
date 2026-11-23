@@ -1,0 +1,3 @@
+{
+    "extends": "../Vencord/tsconfig.json"
+}
